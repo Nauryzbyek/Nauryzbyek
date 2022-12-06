@@ -26,7 +26,7 @@ export default function Player(props: PlayerProps) {
 
   return (
     <>
-      <h1 className={style.txt}>The implementation below is using react functions</h1>
+      <h1 className={style.txt}>LALALALALALLA</h1>
       <div data-vjs-player>
         <video ref={onVideo} className="video-js" playsInline />
       </div>
